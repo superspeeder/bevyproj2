@@ -1,6 +1,6 @@
 pub mod utils;
 pub mod game;
-
+mod editor_tools;
 
 use bevy::prelude::*;
 
