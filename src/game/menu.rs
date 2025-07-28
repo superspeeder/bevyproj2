@@ -1,5 +1,5 @@
 use bevy::prelude::StateSet;
-use bevy::prelude::{States, SubStates};
+use bevy::prelude::SubStates;
 use super::GameState;
 
 #[derive(SubStates, Copy, Clone, PartialEq, Eq, Hash, Debug, Default)]
